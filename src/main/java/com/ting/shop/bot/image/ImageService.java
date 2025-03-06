@@ -29,7 +29,7 @@ public class ImageService {
         }
 
         int cellPadding = 10;
-        int cellHeight = 30;
+        int cellHeight = 40;
         int tableWidth = cellAns.get(cellAns.size() - 1);
         int tableLeHeight = cellHeight * data.size();
         // 创建图像
